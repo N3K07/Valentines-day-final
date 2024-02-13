@@ -39,7 +39,7 @@ body {
 
 #yesBtn:hover, #noBtn:hover {
     background-color: #800080;
-    color: #98FB98,#FF6961;
+    color: #fff;
 }
 
 #noBtn {
